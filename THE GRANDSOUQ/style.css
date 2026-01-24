@@ -79,3 +79,27 @@ tr:hover {
   font-weight: 600;
   color: #047857;
 }
+
+/* Mobile responsive adjustments */
+@media (max-width: 600px) {
+  .rates {
+    width: 100%; /* full width on small screens */
+    padding: 10px;
+  }
+
+  table {
+    width: 100%; /* table fits screen */
+    font-size: 14px; /* smaller font */
+  }
+
+  th, td {
+    padding: 8px;
+  }
+
+  button {
+    width: 100%; /* full-width button */
+    padding: 12px;
+  }
+}
+
+
