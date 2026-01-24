@@ -42,7 +42,7 @@ button:hover {
 }
 
 table {
-  margin-inline: 20rem;
+  margin-inline: 2rem;
   margin-block: 5rem;
   width: 100%;
   max-width: 800px;
@@ -101,5 +101,6 @@ tr:hover {
     padding: 12px;
   }
 }
+
 
 
