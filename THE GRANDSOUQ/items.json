@@ -265,6 +265,7 @@
   { "name": "AURELIA Chain", "category": "Extra", "gram": 2.1, "status": "" },
   { "name": "CLOVER Bracelet", "category": "Extra", "gram": 8.9, "status": "" },
   { "name": "MEADOW Anklet", "category": "Extra", "gram": 4.6, "status": "" },
+  { "name": "SPIRAL Bangle", "category": "Extra", "gram": 12.7, "status": "" },
   { "name": "SHORE Anklet", "category": "Extra", "gram": 6.4, "status": "" },
   { "name": "LARIAT Necklace", "category": "Extra", "gram": 0.0, "status": "" },
   { "name": "MESH Bracelet", "category": "Extra", "gram": 5.5, "status": "" },
@@ -277,5 +278,6 @@
   { "name": "GLIDED Ring", "category": "Extra", "gram": 6.1, "status": "" }
 
 ]
+
 
 
