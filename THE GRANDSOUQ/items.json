@@ -25,7 +25,7 @@
   { "name": "Olive Bracelet", "category": "Extra", "gram": 4.3, "status": "" },
   { "name": "MATIS Bracelet", "category": "Extra", "gram": 2.8, "status": "" },
   { "name": "ALIME Bangle", "category": "Milan", "gram": 24.5, "status": "" },
-  { "name": "ALYX Earring", "category": "Extra", "gram": 17.9, "status": "" },
+  { "name": "ALYX Earring", "category": "Marotto", "gram": 17.9, "status": "" },
   { "name": "ALYSE Earring", "category": "Milan", "gram": 2.8, "status": "" },
   { "name": "ALYSA Earring", "category": "Extra", "gram": 2.9, "status": "Out of Stock" },
   { "name": "MISKI Bracelet", "category": "Extra", "gram": 3.6, "status": "" },
@@ -171,10 +171,10 @@
   { "name": "DITRIO Ring", "category": "Special", "gram": 9.6, "status": "Adonrate" },
   { "name": "LURTEA Ring", "category": "Extra", "gram": 6.2, "status": "" },
   { "name": "KEROYI Ring", "category": "Extra", "gram": 6.8, "status": "" },
-  { "name": "MEROTI Ring", "category": "Extra", "gram": 5.2, "status": "" },
+  { "name": "NEROTI Ring", "category": "Extra", "gram": 5.2, "status": "" },
   { "name": "POPI Gold Ring", "category": "Extra", "gram": 4.7, "status": "" },
   { "name": "SERIOL Ring", "category": "Extra", "gram": 2.7, "status": "" },
-  { "name": "FELIAS Ring", "category": "Extra", "gram": 4.9, "status": "" },
+  { "name": "FEWAS Ring", "category": "Extra", "gram": 4.9, "status": "" },
   { "name": "AOYI Ring", "category": "Extra", "gram": 3.2, "status": "" },
   { "name": "FERIO Ring", "category": "21 Carat", "gram": 2.2, "status": "" },
   { "name": "WEMIR Necklace", "category": "Extra", "gram": 9.2, "status": "" },
@@ -199,7 +199,7 @@
   { "name": "PERIE Earring", "category": "Extra", "gram": 2.1, "status": "" },
   { "name": "CERI GOLD Earring", "category": "Extra", "gram": 9.5, "status": "" },
   { "name": "EGEE Set", "category": "Extra", "gram": 21.1, "status": "" },
-  { "name": "CESFU Bangle", "category": "Extra", "gram": 7.7, "status": "" },
+  { "name": "CESFU Bangle", "category": "Extra", "gram": 7.7, "status": "Out of Stock" },
   { "name": "KIEFAH'S Earring", "category": "Extra", "gram": 5.2, "status": "" },
   { "name": "QEYA Studs", "category": "Extra", "gram": 7.6, "status": "" },
   { "name": "MELAP Earring", "category": "Extra", "gram": 13.6, "status": "" },
@@ -239,7 +239,7 @@
   { "name": "GUIXIN Stud", "category": "Extra", "gram": 8.0, "status": "" },
   { "name": "LUME Studs", "category": "Extra", "gram": 1.1, "status": "" },
   { "name": "VEXA Anklet", "category": "Extra", "gram": 1.8, "status": "Sold Out" },
-  { "name": "RENZEL Earring", "category": "Super", "gram": 8.8, "status": "" },
+  { "name": "RENZEL Earring", "category": "Super", "gram": 8.6, "status": "" },
   { "name": "LIEFE Bracelet", "category": "Extra", "gram": 4.8, "status": "" },
   { "name": "COTT Ring", "category": "Extra", "gram": 4.74, "status": "" },
   { "name": "SILVER BALL Bracelet", "category": "Extra", "gram": 3.3, "status": "" },
@@ -265,3 +265,4 @@
   { "name": "AURELIA Chain", "category": "Extra", "gram": 2.1, "status": "" }
 
 ]
+
