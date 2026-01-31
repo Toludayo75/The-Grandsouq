@@ -160,7 +160,7 @@
   { "name": "BERAEE Ring", "category": "Extra", "gram": 12.0, "status": "" },
   { "name": "LURTEA Ring", "category": "Extra", "gram": 6.2, "status": "" },
   { "name": "KEROYI Ring", "category": "Extra", "gram": 6.8, "status": "" },
-  { "name": "NEROTI Ring", "category": "Extra", "gram": 5.2, "status": "" },me
+  { "name": "NEROTI Ring", "category": "Extra", "gram": 5.2, "status": "" },
   { "name": "POPI Gold Ring", "category": "Extra", "gram": 4.7, "status": "" },
   { "name": "SERIOL Ring", "category": "Extra", "gram": 2.7, "status": "" },
   { "name": "FEWAS Ring", "category": "Extra", "gram": 4.9, "status": "" },
@@ -251,6 +251,7 @@
   { "name": "GLIDED Ring", "category": "Extra", "gram": 6.1, "status": "" },
   { "name": "LONGLINK Chain", "category": "Milan", "gram": 2.9, "status": "" }
 ]
+
 
 
 
