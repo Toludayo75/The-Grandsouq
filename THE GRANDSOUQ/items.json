@@ -157,9 +157,10 @@
   { "name": "LEFE Rose Gold Bangle", "category": "Extra", "gram": 4.8, "status": "" },
   { "name": "LEFE Gold Bangle", "category": "Extra", "gram": 4.8, "status": "" },
   { "name": "DITRIO Ring", "category": "Special", "gram": 9.6, "status": "" },
+  { "name": "BERAEE Ring", "category": "Extra", "gram": 12.0, "status": "" },
   { "name": "LURTEA Ring", "category": "Extra", "gram": 6.2, "status": "" },
   { "name": "KEROYI Ring", "category": "Extra", "gram": 6.8, "status": "" },
-  { "name": "NEROTI Ring", "category": "Extra", "gram": 5.2, "status": "" },
+  { "name": "NEROTI Ring", "category": "Extra", "gram": 5.2, "status": "" },me
   { "name": "POPI Gold Ring", "category": "Extra", "gram": 4.7, "status": "" },
   { "name": "SERIOL Ring", "category": "Extra", "gram": 2.7, "status": "" },
   { "name": "FEWAS Ring", "category": "Extra", "gram": 4.9, "status": "" },
@@ -167,7 +168,6 @@
   { "name": "FERIO Ring", "category": "21 Carat", "gram": 2.2, "status": "" },
   { "name": "WEMIR Necklace", "category": "Extra", "gram": 9.2, "status": "" },
   { "name": "LERWI Chain", "category": "Extra", "gram": 6.3, "status": "" },
-  { "name": "BERAEE Ring", "category": "Extra", "gram": 12.0, "status": "" },
   { "name": "REO Chain", "category": "Extra", "gram": 7.2, "status": "" },
   { "name": "ERI Chain", "category": "Extra", "gram": 10.5, "status": "" },
   { "name": "BINER Chain", "category": "Extra", "gram": 12.9, "status": "" }, 
@@ -251,6 +251,7 @@
   { "name": "GLIDED Ring", "category": "Extra", "gram": 6.1, "status": "" },
   { "name": "LONGLINK Chain", "category": "Milan", "gram": 2.9, "status": "" }
 ]
+
 
 
 
