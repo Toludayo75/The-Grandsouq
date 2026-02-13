@@ -20,10 +20,8 @@
   { "name": "MESH Bracelet", "category": "Extra", "gram": 5.5, "status": "" },
   { "name": "SHORE Anklet", "category": "Extra", "gram": 6.4, "status": "" },
   { "name": "MEADOW Anklet", "category": "Extra", "gram": 4.6, "status": "" },
-  { "name": "SPIRAL Bangle", "category": "Extra", "gram": 12.7, "status": "" },
   { "name": "LONGLINK Chain", "category": "Milan", "gram": 2.9, "status": "" },
   { "name": "AURELIA Chain", "category": "Extra", "gram": 2.1, "status": "" },
-  { "name": "ROLO Chain", "category": "Extra", "gram": 3.7, "status": "" },
   { "name": "TRI-TONE Necklace", "category": "Extra", "gram": 7.9, "status": "" },
   { "name": "AZURE Set", "category": "Extra", "gram": 18.6, "status": "" },
   { "name": "TASSLE Earring", "category": "Extra", "gram": 5.8, "status": "" },
@@ -45,7 +43,6 @@
   { "name": "Beau Bangle", "category": "Extra", "gram": 2.6, "status": "" },
   { "name": "Catrin Bracelet", "category": "Extra", "gram": 3.9, "status": "" },
   { "name": "OVIDE Chain", "category": "Extra", "gram": 9.5, "status": "" },
-  { "name": "Olivia Chain", "category": "Milan", "gram": 4.3, "status": "" },
   { "name": "Olive Bracelet", "category": "Extra", "gram": 4.3, "status": "" },
   { "name": "MATIS Bracelet", "category": "Extra", "gram": 2.8, "status": "" },
   { "name": "ALINE Bangle", "category": "Milan", "gram": 24.5, "status": "" },
@@ -236,7 +233,6 @@
   { "name": "D-SILVER Bangle", "category": "Extra", "gram": 14.0, "status": "" },
   { "name": "TERES Earring", "category": "Extra", "gram": 3.9, "status": "" },
   { "name": "PEREZ Bracelet", "category": "Extra", "gram": 21.4, "status": "" },
-  { "name": "ZABAL Earring", "category": "Extra", "gram": 6.4, "status": "" },
   { "name": "RINA Earring", "category": "Extra", "gram": 10.6, "status": "" },
   { "name": "TILO Earring", "category": "Extra", "gram": 5.1, "status": "" },
   { "name": "BETEZ Earring", "category": "Super", "gram": 12.8, "status": "" },
@@ -255,7 +251,6 @@
   { "name": "GUIXIN Stud", "category": "Extra", "gram": 8.0, "status": "" },
   { "name": "LUWE Studs", "category": "Extra", "gram": 1.1, "status": "" },
   { "name": "RENZEL Earring", "category": "Super", "gram": 8.6, "status": "" },
-  { "name": "LIEFE Bracelet", "category": "Extra", "gram": 4.8, "status": "" },
   { "name": "COTT Ring", "category": "Extra", "gram": 4.74, "status": "" },
   { "name": "SILVER BALL Bracelet", "category": "Extra", "gram": 3.3, "status": "" },
   { "name": "ICON Chain", "category": "Extra", "gram": 5.36, "status": "" },
@@ -263,6 +258,7 @@
   { "name": "ELDORA Baby Bracelet", "category": "Extra", "gram": 4.8, "status": "" },
   { "name": "ONA Set", "category": "Extra", "gram": 8.3, "status": "Out of stock, Pendant left" }
 ]
+
 
 
 
