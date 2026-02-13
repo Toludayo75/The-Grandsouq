@@ -1,8 +1,21 @@
 [
+  { "name": "RED OPEN HEART PENDANT", "category": "Extra", "gram": 3.0, "status": "" },
+  { "name": "SLIVER HOOP PENDANT", "category": "Extra", "gram": 1.2, "status": "" },
+  { "name": "TRI-TONE BEADED EARRINGS", "category": "Extra", "gram": 13.3, "status": "" },
+  { "name": "BYPASS RING", "category": "Extra", "gram": 4.3, "status": "" },
+  { "name": "MOSAIC RINGe", "category": "Extra", "gram": 6.2, "status": "" },
+  { "name": "LARIAT SET", "category": "Milan", "gram": 10.0, "status": "" },
+  { "name": "GOLD OPEN HEART PENDANT", "category": "Extra", "gram": 3.8, "status": "" },
+  { "name": "SILVER OPEN HEART PENDANT", "category": "Extra", "gram": 5.0, "status": "" },
+  { "name": "OVOID PENDANT", "category": "Extra", "gram": 4.4, "status": "" },
+  { "name": "DAINTY CHARM ANKLET", "category": "Extra", "gram": 2.4, "status": "" },
+  { "name": "GOLD FILIGREE STUDS", "category": "Extra", "gram": 1.1, "status": "" },
+  { "name": "CLIVE Bracelet", "category": "Extra", "gram": 12.2, "status": "" },
+  { "name": "VORTEX Bangle", "category": "Milan", "gram": 37.5, "status": "" },
+  { "name": "LUCKY Bangle", "category": "Extra", "gram": 5.2, "status": "" },
   { "name": "GLIDED Ring", "category": "Extra", "gram": 6.1, "status": "" },
   { "name": "SLEEK Necklace", "category": "Extra", "gram": 5.7, "status": "" },
   { "name": "ONYX Necklace", "category": "Extra", "gram": 4.4, "status": "" },
-  { "name": "CLOVER Bracelet", "category": "Extra", "gram": 8.9, "status": "" },
   { "name": "PAPILLON Studs", "category": "Extra", "gram": 1.1, "status": "" },
   { "name": "MESH Bracelet", "category": "Extra", "gram": 5.5, "status": "" },
   { "name": "SHORE Anklet", "category": "Extra", "gram": 6.4, "status": "" },
@@ -250,6 +263,7 @@
   { "name": "ELDORA Baby Bracelet", "category": "Extra", "gram": 4.8, "status": "" },
   { "name": "ONA Set", "category": "Extra", "gram": 8.3, "status": "Out of stock, Pendant left" }
 ]
+
 
 
 
