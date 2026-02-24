@@ -1,6 +1,5 @@
 [
   { "name": "ELYSIAN STUDS", "category": "Extra", "gram": 3.5, "status": "" },
-  { "name": "WHITE HOOP PENDANT", "category": "Extra", "gram": 1.2, "status": "" },
   { "name": "RED OPEN HEART PENDANT", "category": "Extra", "gram": 3.0, "status": "" },
   { "name": "TRI-TONE BEADED EARRINGS", "category": "Extra", "gram": 13.3, "status": "" },
   { "name": "BYPASS RING", "category": "Extra", "gram": 4.3, "status": "" },
@@ -94,7 +93,6 @@
   { "name": "TANSY Bracelet", "category": "Milan", "gram": 1.7, "status": "" },
   { "name": "TRINA Bracelet", "category": "Super", "gram": 4.1, "status": "" },
   { "name": "ZERA Bracelet", "category": "Super", "gram": 4.5, "status": "" },
-  { "name": "TASHA Bangle", "category": "22 Carat", "gram": 8.3, "status": "" },
   { "name": "SONIA Earring", "category": "Extra", "gram": 5.0, "status": "" },
   { "name": "PLINIO Earring", "category": "Super", "gram": 10.7, "status": "" },
   { "name": "KARLYN Bracelet", "category": "Milan", "gram": 5.7, "status": "" },
@@ -202,7 +200,6 @@
   { "name": "ACHILLE Earring", "category": "Special", "gram": 12.8, "status": "Ask for rate" },
   { "name": "TESON Chain", "category": "Extra", "gram": 7.6, "status": "" },
   { "name": "LAJI Chain", "category": "Extra", "gram": 16.9, "status": "" },
-  { "name": "SUE Ring", "category": "Extra", "gram": 5.9, "status": "" },
   { "name": "OBERE Earring", "category": "Extra", "gram": 13.3, "status": "" },
   { "name": "GB Bangle", "category": "Extra", "gram": 15.3, "status": "" },
   { "name": "CERA Blossom Earring", "category": "Super", "gram": 12.7, "status": "" },
@@ -259,6 +256,7 @@
   { "name": "ELDORA Baby Bracelet", "category": "Extra", "gram": 4.8, "status": "" },
   { "name": "ONA Set", "category": "Extra", "gram": 8.3, "status": "Out of stock, Pendant left" }
 ]
+
 
 
 
