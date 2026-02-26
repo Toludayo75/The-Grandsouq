@@ -1,4 +1,8 @@
 [
+  { "name": "GOLDEN WRAP BANGLE", "category": "Extra", "gram": 12.2, "status": "" },
+  { "name": "RECTANGLE LINK CHAIN", "category": "Extra", "gram": 3.9, "status": "" },
+  { "name": "HEART CHARM CHAIN", "category": "Extra", "gram": 3.4, "status": "" },
+  { "name": "GOLDEN CIRCLE PENDANT", "category": "Extra", "gram": 5.1, "status": "" },
   { "name": "ELYSIAN STUDS", "category": "Extra", "gram": 3.5, "status": "" },
   { "name": "RED OPEN HEART PENDANT", "category": "Extra", "gram": 3.0, "status": "" },
   { "name": "TRI-TONE BEADED EARRINGS", "category": "Extra", "gram": 13.3, "status": "" },
@@ -254,6 +258,7 @@
   { "name": "ELDORA Baby Bracelet", "category": "Extra", "gram": 4.8, "status": "" },
   { "name": "ONA Set", "category": "Extra", "gram": 8.3, "status": "Out of stock, Pendant left" }
 ]
+
 
 
 
