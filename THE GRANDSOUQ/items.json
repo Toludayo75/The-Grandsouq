@@ -29,13 +29,11 @@
   { "name": "HELMA Sets", "category": "Milan", "gram": 8.2, "status": "" },
   { "name": "Cees Chain", "category": "Extra", "gram": 11.7, "status": "" },
   { "name": "Lawrie Earring", "category": "Super", "gram": 15.5, "status": "" },
-  { "name": "Piers Baby Bracelet", "category": "Extra", "gram": 1.2, "status": "" },
   { "name": "IVORY Baby Bracelet", "category": "Extra", "gram": 3.4, "status": "" },
   { "name": "AFIA White Gold Set", "category": "Extra", "gram": 9.3, "status": "" },
   { "name": "Aella Set", "category": "Extra", "gram": 11.6, "status": "" },
   { "name": "ADVA Earring", "category": "Extra", "gram": 6.1, "status": "" },
   { "name": "AALIS Earring", "category": "Extra", "gram": 6.3, "status": "" },
-  { "name": "AYLAN Baby Bracelet", "category": "Extra", "gram": 3.3, "status": "" },
   { "name": "CORRIE Dark Grey Bangle", "category": "Extra", "gram": 6.6, "status": "" },
   { "name": "Fleur Chain", "category": "Extra", "gram": 13.7, "status": "" },
   { "name": "Else Set", "category": "Extra", "gram": 35.0, "status": "" },
@@ -256,6 +254,7 @@
   { "name": "ELDORA Baby Bracelet", "category": "Extra", "gram": 4.8, "status": "" },
   { "name": "ONA Set", "category": "Extra", "gram": 8.3, "status": "Out of stock, Pendant left" }
 ]
+
 
 
 
