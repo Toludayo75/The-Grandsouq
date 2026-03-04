@@ -1,4 +1,17 @@
 [
+  { "name": "LEAVE EARRINGS", "category": "Super", "gram":14.0, "status": "" },
+  { "name": "DUEM SET", "category": "Super", "gram":16.7, "status": "" },
+  { "name": "TIDE EARRINGS", "category": "Super", "gram":10.9, "status": "" },
+  { "name": "DEW DIAMOND CHAIN", "category": "Special", "gram":5.23, "status": "" },
+  { "name": "WHITE SOLSTICE DIAMOND CHAIN", "category": "Special", "gram":5.02, "status": "" },
+  { "name": "SOLSTICE ROSE GOLD DIAMOND CHAIN", "category": "Special", "gram":5.44 "status": "" },
+  { "name": "ZENITH SET", "category": "Super", "gram":27.0, "status": "" },
+  { "name": "PRISM GOLD EARRINGS", "category": "Extra", "gram":3.8, "status": "" },
+  { "name": "WILLOW GOLD BANGLE", "category": "Super", "gram":6.7, "status": "" },
+  { "name": "WILLOW ROSE GOLD BANGLE", "category": "Super", "gram":6.4, "status": "" },
+  { "name": "WILLOW DARK GREY BANGLE", "category": "Super", "gram":6.4, "status": "" },
+  { "name": "SERAPHINA ROSE GOLD BANGLE", "category": "Super", "gram":7.5, "status": "" },
+  { "name": "SERAPHINA BANGLE", "category": "Super", "gram":7.1, "status": "" },
   { "name": "GOLDEN WRAP BANGLE", "category": "Extra", "gram": 12.2, "status": "" },
   { "name": "RECTANGLE LINK CHAIN", "category": "Extra", "gram": 3.9, "status": "" },
   { "name": "HEART CHARM CHAIN", "category": "Extra", "gram": 3.4, "status": "" },
@@ -22,7 +35,6 @@
   { "name": "ONYX Necklace", "category": "Extra", "gram": 4.4, "status": "" },
   { "name": "PAPILLON Studs", "category": "Extra", "gram": 1.1, "status": "" },
   { "name": "MESH Bracelet", "category": "Extra", "gram": 5.5, "status": "" },
-  { "name": "SHORE Anklet", "category": "Extra", "gram": 6.4, "status": "" },
   { "name": "MEADOW Anklet", "category": "Extra", "gram": 4.6, "status": "" },
   { "name": "LONGLINK Chain", "category": "Milan", "gram": 2.9, "status": "" },
   { "name": "AURELIA Chain", "category": "Extra", "gram": 2.1, "status": "" },
@@ -46,7 +58,6 @@
   { "name": "Catrin Bracelet", "category": "Extra", "gram": 3.9, "status": "" },
   { "name": "OVIDE Chain", "category": "Extra", "gram": 9.5, "status": "" },
   { "name": "Olive Bracelet", "category": "Extra", "gram": 4.3, "status": "" },
-  { "name": "MATIS Bracelet", "category": "Extra", "gram": 2.8, "status": "" },
   { "name": "ALINE Bangle", "category": "Milan", "gram": 24.5, "status": "" },
   { "name": "ALYX Earring", "category": "Marotto", "gram": 17.9, "status": "" },
   { "name": "ALYSE Earring", "category": "Milan", "gram": 2.8, "status": "" },
@@ -71,7 +82,6 @@
   { "name": "SERENA Earring", "category": "Extra", "gram": 9.4, "status": "" },
   { "name": "SELENE Earring", "category": "Extra", "gram": 9.5, "status": "" },
   { "name": "PRISCILLE Bracelet", "category": "Extra", "gram": 16.5, "status": "" },
-  { "name": "METEY Ring", "category": "Extra", "gram": 1.6, "status": "" },
   { "name": "ALLAIN Pendant", "category": "Extra", "gram": 2.5, "status": "" },
   { "name": "ALDRIC Chain", "category": "Extra", "gram": 6.2, "status": "" },
   { "name": "DELIA Bracelet Set", "category": "Milan", "gram": 7.1, "status": "" },
@@ -81,7 +91,7 @@
   { "name": "CLOE Set", "category": "Extra", "gram": 12.8, "status": "" },
   { "name": "DEYSI Earring", "category": "Extra", "gram": 4.9, "status": "" },
   { "name": "DINA Bracelet", "category": "Extra", "gram": 5.3, "status": "" },
-  { "name": "AYIEN Bracelet", "category": "Extra", "gram": 12.12, "status": "" },
+  { "name": "AYLEN Bracelet", "category": "Extra", "gram": 12.12, "status": "" },
   { "name": "PIER Earring", "category": "Extra", "gram": 5.2, "status": "" },
   { "name": "LELIO Chain", "category": "Extra", "gram": 21.5, "status": "" },
   { "name": "CELINO Chain", "category": "Extra", "gram": 8.7, "status": "" },
@@ -232,7 +242,6 @@
   { "name": "VIDUS Earring", "category": "Extra", "gram": 8.2, "status": "" },
   { "name": "D-SILVER Bangle", "category": "Extra", "gram": 14.0, "status": "" },
   { "name": "TERES Earring", "category": "Extra", "gram": 3.9, "status": "" },
-  { "name": "PEREZ Bracelet", "category": "Extra", "gram": 21.4, "status": "" },
   { "name": "RINA Earring", "category": "Extra", "gram": 10.6, "status": "" },
   { "name": "TILO Earring", "category": "Extra", "gram": 5.1, "status": "" },
   { "name": "BETEZ Earring", "category": "Super", "gram": 12.8, "status": "" },
@@ -258,6 +267,7 @@
   { "name": "ELDORA Baby Bracelet", "category": "Extra", "gram": 4.8, "status": "" },
   { "name": "ONA Set", "category": "Extra", "gram": 8.3, "status": "Out of stock, Pendant left" }
 ]
+
 
 
 
