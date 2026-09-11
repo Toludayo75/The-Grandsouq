@@ -5,11 +5,11 @@
   { "name": "GOLD BELL EARRING", "category": "Extra", "gram": 1.2, "status": "" },
   { "name": "DIENA ANKLET", "category": "Extra", "gram": 3.2, "status": "" },
   { "name": "ANNE WHITE GOLD EARRINGS", "category": "Extra", "gram": 2.0, "status": "" },
-  { "name": "LOOP BANGLE(Stella Special IGNORE CANT CHANGE)", "category": "Extra", "gram": 0, "status": "" },
-  { "name": "VEANA BANGLE(Stella Special IGNORE)", "category": "Extra", "gram": 0, "status": "" },
-  { "name": "YEVA BANGLE(Stella Special IGNORE)", "category": "Extra", "gram": 0, "status": "" },
-  { "name": "VENA BANGLE(Stella Special IGNORE)", "category": "Extra", "gram": 0, "status": "" },
-  { "name": "ELIENA SET(Stella Special IGNORE)", "category": "Extra", "gram": 0, "status": "" },
+  { "name": "LOOP BANGLE(Stella Special IGNORE CANT CHANGE)", "category": "Extra", "gram": 0.0, "status": "" },
+  { "name": "VEANA BANGLE(Stella Special IGNORE)", "category": "Extra", "gram": 0.0, "status": "" },
+  { "name": "YEVA BANGLE(Stella Special IGNORE)", "category": "Extra", "gram": 0.0, "status": "" },
+  { "name": "VENA BANGLE(Stella Special IGNORE)", "category": "Extra", "gram": 0.0, "status": "" },
+  { "name": "ELIENA SET(Stella Special IGNORE)", "category": "Extra", "gram": 0.0, "status": "" },
   { "name": "LUENA GOLD EARRING", "category": "Extra", "gram": 3.3, "status": "" },
   { "name": "SKEW BANGLE", "category": "Extra", "gram": 9.0, "status": "" },
   { "name": "LUCIAN WHITE GOLD EARRING", "category": "Extra", "gram": 2.0, "status": "" },
@@ -74,7 +74,7 @@
   { "name": "FERN BRACELET", "category": "Extra", "gram": 14.4, "status": "" },
   { "name": "STELLA CHAIN", "category": "Extra", "gram": 1.8, "status": "" },
   { "name": "TIDE EARRINGS", "category": "Super", "gram": 10.9, "status": "" },
-  { "name": "WILLOW GOLD BANGLE and co SPECIAL IGNORE CANT CHANGE)", "category": "Extra", "gram": 0, "status": "" },
+  { "name": "WILLOW GOLD BANGLE and co SPECIAL IGNORE CANT CHANGE)", "category": "Extra", "gram": 0.0, "status": "" },
   { "name": "RECTANGLE LINK CHAIN", "category": "Extra", "gram": 3.9, "status": "" },
   { "name": "HEART CHARM CHAIN", "category": "Extra", "gram": 3.4, "status": "" },
   { "name": "GOLDEN CIRCLE PENDANT", "category": "Extra", "gram": 5.1, "status": "" },
@@ -283,25 +283,5 @@
   { "name": "ICON Chain", "category": "Extra", "gram": 5.36, "status": "" },
   { "name": "BELLO Earring", "category": "Extra", "gram": 8.4, "status": "" },
   { "name": "ELDORA Baby Bracelet", "category": "Extra", "gram": 4.8, "status": "" },
-  { "name": "ONA Set", "category": "Extra", "gram": 8.3, "status": "Out of stock, Pendant left" }
+  { "name": "ONA Set", "category": "Extra", "gram": 8.3, "status": "Out of stock, Pendant left" },
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
