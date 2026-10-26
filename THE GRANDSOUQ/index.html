@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Item Price Calculator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h3>Category Rates</h3>
+
+  <div class="rates">
+    Extra:
+    <input id="rate-extra" placeholder="Extra rate">
+    Super:
+    <input id="rate-super" placeholder="Super rate">
+    Milan:
+    <input id="rate-milan" placeholder="Milan rate">
+    Marotto:
+    <input id="rate-marotto" placeholder="Marotto rate">
+    21 Carat:
+    <input id="rate-21" placeholder="21 Carat rate">
+    22 Carat:
+    <input id="rate-22" placeholder="22 Carat rate">
+    24 Carat:
+    <input id="rate-24" placeholder="24 Carat rate">
+    Special:
+    <input id="rate-special" placeholder="Special rate">
+
+    <button id="calculate-btn">Calculate</button>
+  </div>
+
+  <div style="overflow-x:auto;">
+    <table>
+      <thead>
+        <tr>
+          <th>Item Name</th>
+          <th>Total Price</th>
+        </tr>
+      </thead>
+      <tbody id="items-body"></tbody>
+    </table>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
