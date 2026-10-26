@@ -28,6 +28,7 @@ function calculatePrices() {
     "Marotto": Number(document.getElementById("rate-marotto").value) || 0,
     "21 Carat": Number(document.getElementById("rate-21").value) || 0,
     "22 Carat": Number(document.getElementById("rate-22").value) || 0,
+    "24 Carat": Number(document.getElementById("rate-24").value) || 0,
     "Special": Number(document.getElementById("rate-special").value) || 0
   };
 
