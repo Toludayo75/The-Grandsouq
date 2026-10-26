@@ -1,10 +1,26 @@
+
 fetch("items.json")
-  .then(res => res.json())
+  .then(res => {
+    if (!res.ok) {
+      throw new Error("Failed to load items.json");
+    }
+    return res.json();
+  })
   .then(items => {
     window.items = items;
+    document.getElementById("calculate-btn").disabled = false;
+  })
+  .catch(error => {
+    console.error("Error loading products:", error);
+    alert("Could not load products. Please check items.json.");
   });
 
 function calculatePrices() {
+  if (!window.items) {
+    alert("Products are still loading. Please try again.");
+    return;
+  }
+
   const rates = {
     "Extra": Number(document.getElementById("rate-extra").value) || 0,
     "Super": Number(document.getElementById("rate-super").value) || 0,
@@ -18,10 +34,16 @@ function calculatePrices() {
   const tbody = document.getElementById("items-body");
   tbody.innerHTML = "";
 
-  window.items.forEach(item => {
-    if (!rates[item.category]) {
-        console.warn("Missing rate for:", item.category);
+  // Display only products that are in stock
+  const availableItems = window.items.filter(
+    item => item.inStock !== false
+  );
+
+  availableItems.forEach(item => {
+    if (!(item.category in rates)) {
+      console.warn("Missing rate for:", item.category);
     }
+
     const rate = rates[item.category] || 0;
     const base = rate * item.gram;
     const total = base + (base * 0.045);
@@ -32,7 +54,11 @@ function calculatePrices() {
         <td>${total.toFixed(2)}</td>
       </tr>
     `;
+
     tbody.insertAdjacentHTML("beforeend", row);
   });
 }
-document.getElementById("calculate-btn").addEventListener("click", calculatePrices);
+
+document.getElementById("calculate-btn").disabled = true;
+document.getElementById("calculate-btn")
+  .addEventListener("click", calculatePrices);
